@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e44ee952043255645b48d7b16b98b91a, type: 3}
+  m_Name: RangeAttackWeapon1
+  m_EditorClassIdentifier: 
+  _attackType: 0
+  _damage: 10
+  _floatValue: 100
+  _layerMask:
+    serializedVersion: 2
+    m_Bits: 64
+  _attackMaxDelay: 0.25
+  _animatorOverride: {fileID: 22100000, guid: d159bb35cb3474243a4c234cea61f4d5, type: 2}
+  _clip: {fileID: 8300000, guid: 6e8977724d2410d46ac0e23d79554da9, type: 3}
